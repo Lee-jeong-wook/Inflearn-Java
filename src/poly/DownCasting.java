@@ -1,7 +1,6 @@
-import poly.Child;
-import poly.Parents;
+package poly;
 
-public class Main {
+public class DownCasting {
     public static void main(String[] args) {
         Parents poly = new Child();
         Parents parents = new Parents();
